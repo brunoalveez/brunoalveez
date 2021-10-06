@@ -1,7 +1,7 @@
 ### Olá eu sou Bruno Oliveira 👋
 
 - 🔭 Iniciando Front-end e back-end
-- 🌱 Estudando HTML, CSS, JAVASRIPT, BOOTSTRAP, JQUERY, ANGULARJS, REACTJS , REACT NATIVE, NODEJS, PHP , JAVA, PYTHON, SQL 
+- 🌱 Estudando HTML, CSS, JAVASRIPT, BOOTSTRAP, JQUERY, VUEJS, ANGULARJS, REACTJS , REACT NATIVE, NODEJS, PHP , JAVA, PYTHON, SQL 
 - 📫 Contate-me no email: brunoalveey.ba@gmail.com
 - 😄 Pronouns: Ele/Dele ...
 
