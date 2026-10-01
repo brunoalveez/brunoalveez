@@ -1,8 +1,12 @@
-### Olá eu sou Bruno Oliveira 👋
+Olá, eu sou Bruno Oliveira 👋
 
-- 🔭 Iniciando Front-end e back-end
-- 🌱 Estudando HTML, CSS, JAVASRIPT, BOOTSTRAP, JQUERY, VUEJS, ANGULARJS, REACTJS , REACT NATIVE, NODEJS, PHP , JAVA, PYTHON, SQL 
-- 📫 Contate-me no email: brunoalveey.ba@gmail.com
+- 🔐 Atuando e estudando Cibersegurança, com foco em Blue Team e SOC
+- 🛡️ Estudando Segurança da Informação, Gestão de Vulnerabilidades e Resposta a Incidentes
+- 🌱 Aprendendo e praticando Wazuh, OpenVAS/GVM, DefectDojo, SIEM, EDR, SOAR, Suricata e MITRE ATT&CK
+- 🐧 Trabalhando com Linux, Windows, redes de computadores e ambientes virtualizados com Proxmox
+- 🌐 Estudando redes, monitoramento, análise de logs, detecção de ameaças e hardening
+- 🐍 Utilizando Python e Bash para automação e segurança
+- ☁️ Estudando computação em nuvem, infraestrutura e segurança em ambientes AWS, Azure e GCP
 - 😄 Pronouns: Ele/Dele ...
 
 <div align="center">
