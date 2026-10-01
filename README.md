@@ -7,7 +7,6 @@ Olá, eu sou Bruno Oliveira 👋
 - 🌐 Estudando redes, monitoramento, análise de logs, detecção de ameaças e hardening
 - 🐍 Utilizando Python e Bash para automação e segurança
 - ☁️ Estudando computação em nuvem, infraestrutura e segurança em ambientes AWS, Azure e GCP
-- 😄 Pronouns: Ele/Dele ...
 
 <div align="center">
   <a href="https://github.com/brunoalveez">
