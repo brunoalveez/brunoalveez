@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Gramática Web - Quem é Quem?",
+  "version": "1.0",
+  "description": "Identifica toda a gramática e sintaxe de qualquer site em tempo real.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

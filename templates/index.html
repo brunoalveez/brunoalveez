@@ -1,0 +1,27 @@
+(async function() {
+    const textoPagina = document.body.innerText;
+    
+    // Mostra um aviso de carregamento na tela
+    const aviso = document.createElement('div');
+    aviso.innerHTML = "🔍 Analisando gramática do site via Python...";
+    aviso.style.cssText = "position:fixed;top:20px;right:20px;background:#333;color:#fff;padding:15px;z-index:999999;border-radius:8px;font-family:sans-serif;";
+    document.body.appendChild(aviso);
+
+    try {
+        const response = await fetch('http://127.0.0.1:8000/analisar-texto', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ texto: textoPagina })
+        });
+        const data = await response.json();
+        aviso.remove();
+
+        // Substitui o conteúdo visual das palavras principais na página
+        alert("Análise concluída! O servidor Python processou " + data.tokens.length + " termos-chave da página.");
+        console.log("Tokens analisados:", data.tokens);
+        
+    } catch (err) {
+        aviso.remove();
+        alert("Erro ao conectar com o servidor Python local. Verifique se o uvicorn está rodando!");
+    }
+})();
